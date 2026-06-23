@@ -1,0 +1,201 @@
+content_id,content_type,category,tags,page_views,pdf_clicks,ctr,benchmark_ctr,status
+CONTENT_1,Article,Retail,,8732,375,0.0429,0.03,Healthy
+CONTENT_2,Blog,Tech,"Thought Leadership, Long Read",2313,282,0.1219,0.03,Healthy
+CONTENT_3,Article,Retail,Long Read,8678,858,0.0989,0.03,Healthy
+CONTENT_4,Article,Finance,Finance,10297,34,0.0033,0.03,Needs Attention
+CONTENT_5,Product Page,Energy,"Conversion, Energy",13381,267,0.02,0.03,Below Benchmark
+CONTENT_6,Article,Tech,Long Read,3261,144,0.0442,0.03,Healthy
+CONTENT_7,Blog,Energy,"Thought Leadership, Energy, Long Read",10795,833,0.0772,0.03,Healthy
+CONTENT_8,Article,Retail,,2336,247,0.1057,0.03,Healthy
+CONTENT_9,Landing Page,Tech,,1572,41,0.0261,0.03,Below Benchmark
+CONTENT_10,Product Page,Energy,"Conversion, Energy, Long Read",1345,55,0.0409,0.03,Healthy
+CONTENT_11,Blog,Retail,"Thought Leadership, Long Read",4093,456,0.1114,0.03,Healthy
+CONTENT_12,Landing Page,Health,,630,8,0.0127,0.03,Needs Attention
+CONTENT_13,Landing Page,Health,,12293,141,0.0115,0.03,Needs Attention
+CONTENT_14,Landing Page,Tech,Long Read,12520,1232,0.0984,0.03,Healthy
+CONTENT_15,Product Page,Retail,Conversion,8706,905,0.104,0.03,Healthy
+CONTENT_16,Blog,Retail,Thought Leadership,13293,1407,0.1058,0.03,Healthy
+CONTENT_17,Product Page,Health,Conversion,12461,1791,0.1437,0.03,Healthy
+CONTENT_18,Product Page,Energy,"Conversion, Energy",10244,1017,0.0993,0.03,Healthy
+CONTENT_19,Product Page,Finance,"Conversion, Finance",14079,1239,0.088,0.03,Healthy
+CONTENT_20,Blog,Tech,"Thought Leadership, Long Read",7746,1128,0.1456,0.03,Healthy
+CONTENT_21,Landing Page,Finance,Finance,1366,16,0.0117,0.03,Needs Attention
+CONTENT_22,Product Page,Tech,"Conversion, Long Read",6474,240,0.0371,0.03,Healthy
+CONTENT_23,Article,Tech,,944,63,0.0667,0.03,Healthy
+CONTENT_24,Article,Finance,"Finance, Long Read",7027,108,0.0154,0.03,Below Benchmark
+CONTENT_25,Blog,Health,Thought Leadership,5029,127,0.0253,0.03,Below Benchmark
+CONTENT_26,Blog,Tech,Thought Leadership,1095,154,0.1406,0.03,Healthy
+CONTENT_27,Landing Page,Energy,Energy,14111,217,0.0154,0.03,Below Benchmark
+CONTENT_28,Product Page,Energy,"Conversion, Energy, Long Read",11370,1211,0.1065,0.03,Healthy
+CONTENT_29,Landing Page,Finance,"Finance, Long Read",12656,1173,0.0927,0.03,Healthy
+CONTENT_30,Landing Page,Retail,,619,61,0.0985,0.03,Healthy
+CONTENT_31,Article,Health,Long Read,14172,1070,0.0755,0.03,Healthy
+CONTENT_32,Blog,Health,Thought Leadership,2457,246,0.1001,0.03,Healthy
+CONTENT_33,Product Page,Finance,"Conversion, Finance, Long Read",13344,1805,0.1353,0.03,Healthy
+CONTENT_34,Landing Page,Health,Long Read,2406,279,0.116,0.03,Healthy
+CONTENT_35,Blog,Tech,Thought Leadership,765,77,0.1007,0.03,Healthy
+CONTENT_36,Product Page,Health,"Conversion, Long Read",13270,1755,0.1323,0.03,Healthy
+CONTENT_37,Blog,Finance,"Thought Leadership, Finance, Long Read",5436,507,0.0933,0.03,Healthy
+CONTENT_38,Blog,Finance,"Thought Leadership, Finance, Long Read",3614,458,0.1267,0.03,Healthy
+CONTENT_39,Blog,Energy,"Thought Leadership, Energy",10110,224,0.0222,0.03,Below Benchmark
+CONTENT_40,Product Page,Health,"Conversion, Long Read",6548,692,0.1057,0.03,Healthy
+CONTENT_41,Product Page,Finance,"Conversion, Finance",11165,738,0.0661,0.03,Healthy
+CONTENT_42,Article,Energy,Energy,1337,46,0.0344,0.03,Healthy
+CONTENT_43,Blog,Energy,"Thought Leadership, Energy",7582,145,0.0191,0.03,Below Benchmark
+CONTENT_44,Landing Page,Health,,3999,69,0.0173,0.03,Below Benchmark
+CONTENT_45,Article,Tech,Long Read,1372,33,0.0241,0.03,Below Benchmark
+CONTENT_46,Blog,Energy,"Thought Leadership, Energy",8211,319,0.0389,0.03,Healthy
+CONTENT_47,Landing Page,Energy,Energy,2562,176,0.0687,0.03,Healthy
+CONTENT_48,Article,Tech,,10563,573,0.0542,0.03,Healthy
+CONTENT_49,Landing Page,Retail,Long Read,12664,1293,0.1021,0.03,Healthy
+CONTENT_50,Landing Page,Energy,"Energy, Long Read",524,5,0.0095,0.03,Needs Attention
+CONTENT_51,Product Page,Finance,"Conversion, Finance",5568,322,0.0578,0.03,Healthy
+CONTENT_52,Landing Page,Energy,"Energy, Long Read",14628,1719,0.1175,0.03,Healthy
+CONTENT_53,Product Page,Retail,Conversion,11340,560,0.0494,0.03,Healthy
+CONTENT_54,Landing Page,Finance,Finance,8353,547,0.0655,0.03,Healthy
+CONTENT_55,Blog,Energy,"Thought Leadership, Energy",13414,1273,0.0949,0.03,Healthy
+CONTENT_56,Product Page,Tech,"Conversion, Long Read",1469,190,0.1293,0.03,Healthy
+CONTENT_57,Landing Page,Tech,,13271,711,0.0536,0.03,Healthy
+CONTENT_58,Article,Retail,,12350,1729,0.14,0.03,Healthy
+CONTENT_59,Product Page,Finance,"Conversion, Finance",10164,1107,0.1089,0.03,Healthy
+CONTENT_60,Blog,Finance,"Thought Leadership, Finance",725,70,0.0966,0.03,Healthy
+CONTENT_61,Article,Energy,Energy,1890,74,0.0392,0.03,Healthy
+CONTENT_62,Article,Retail,,10112,1127,0.1115,0.03,Healthy
+CONTENT_63,Landing Page,Tech,Long Read,13811,1311,0.0949,0.03,Healthy
+CONTENT_64,Landing Page,Finance,Finance,10855,1317,0.1213,0.03,Healthy
+CONTENT_65,Product Page,Health,Conversion,4850,503,0.1037,0.03,Healthy
+CONTENT_66,Landing Page,Health,Long Read,11516,784,0.0681,0.03,Healthy
+CONTENT_67,Landing Page,Tech,Long Read,8987,314,0.0349,0.03,Healthy
+CONTENT_68,Landing Page,Tech,,5261,368,0.0699,0.03,Healthy
+CONTENT_69,Landing Page,Energy,Energy,13876,264,0.019,0.03,Below Benchmark
+CONTENT_70,Article,Tech,,12564,1590,0.1266,0.03,Healthy
+CONTENT_71,Article,Energy,Energy,8600,304,0.0353,0.03,Healthy
+CONTENT_72,Article,Retail,Long Read,8824,339,0.0384,0.03,Healthy
+CONTENT_73,Product Page,Tech,Conversion,7373,194,0.0263,0.03,Below Benchmark
+CONTENT_74,Blog,Retail,Thought Leadership,3271,196,0.0599,0.03,Healthy
+CONTENT_75,Article,Retail,Long Read,7385,119,0.0161,0.03,Below Benchmark
+CONTENT_76,Blog,Health,"Thought Leadership, Long Read",11046,279,0.0253,0.03,Below Benchmark
+CONTENT_77,Landing Page,Health,,8504,254,0.0299,0.03,Below Benchmark
+CONTENT_78,Article,Retail,Long Read,4229,588,0.139,0.03,Healthy
+CONTENT_79,Article,Tech,,14001,436,0.0311,0.03,Healthy
+CONTENT_80,Landing Page,Retail,,5954,604,0.1014,0.03,Healthy
+CONTENT_81,Landing Page,Health,Long Read,6149,333,0.0542,0.03,Healthy
+CONTENT_82,Landing Page,Finance,Finance,12424,1665,0.134,0.03,Healthy
+CONTENT_83,Landing Page,Tech,,8075,712,0.0882,0.03,Healthy
+CONTENT_84,Landing Page,Energy,Energy,1231,102,0.0829,0.03,Healthy
+CONTENT_85,Blog,Tech,"Thought Leadership, Long Read",8740,859,0.0983,0.03,Healthy
+CONTENT_86,Blog,Health,Thought Leadership,4307,338,0.0785,0.03,Healthy
+CONTENT_87,Product Page,Energy,"Conversion, Energy, Long Read",10309,1467,0.1423,0.03,Healthy
+CONTENT_88,Product Page,Energy,"Conversion, Energy, Long Read",2960,165,0.0557,0.03,Healthy
+CONTENT_89,Landing Page,Tech,,5796,675,0.1165,0.03,Healthy
+CONTENT_90,Product Page,Tech,"Conversion, Long Read",12916,98,0.0076,0.03,Needs Attention
+CONTENT_91,Landing Page,Health,Long Read,14479,67,0.0046,0.03,Needs Attention
+CONTENT_92,Blog,Tech,"Thought Leadership, Long Read",1122,110,0.098,0.03,Healthy
+CONTENT_93,Product Page,Finance,"Conversion, Finance, Long Read",14106,1353,0.0959,0.03,Healthy
+CONTENT_94,Landing Page,Health,Long Read,9867,834,0.0845,0.03,Healthy
+CONTENT_95,Product Page,Energy,"Conversion, Energy",11529,1144,0.0992,0.03,Healthy
+CONTENT_96,Article,Finance,Finance,13002,1038,0.0798,0.03,Healthy
+CONTENT_97,Blog,Health,Thought Leadership,3336,458,0.1373,0.03,Healthy
+CONTENT_98,Landing Page,Finance,Finance,14091,394,0.028,0.03,Below Benchmark
+CONTENT_99,Blog,Health,Thought Leadership,3343,253,0.0757,0.03,Healthy
+CONTENT_100,Product Page,Retail,"Conversion, Long Read",13460,1406,0.1045,0.03,Healthy
+CONTENT_101,Article,Retail,,6695,328,0.049,0.03,Healthy
+CONTENT_102,Product Page,Health,"Conversion, Long Read",9499,93,0.0098,0.03,Needs Attention
+CONTENT_103,Product Page,Health,"Conversion, Long Read",7282,742,0.1019,0.03,Healthy
+CONTENT_104,Article,Retail,,8599,794,0.0923,0.03,Healthy
+CONTENT_105,Article,Energy,"Energy, Long Read",10019,214,0.0214,0.03,Below Benchmark
+CONTENT_106,Landing Page,Tech,Long Read,3967,67,0.0169,0.03,Below Benchmark
+CONTENT_107,Blog,Health,"Thought Leadership, Long Read",4127,335,0.0812,0.03,Healthy
+CONTENT_108,Article,Finance,"Finance, Long Read",13143,1603,0.122,0.03,Healthy
+CONTENT_109,Blog,Energy,"Thought Leadership, Energy",12930,48,0.0037,0.03,Needs Attention
+CONTENT_110,Article,Health,Long Read,4949,291,0.0588,0.03,Healthy
+CONTENT_111,Article,Health,,7788,1111,0.1427,0.03,Healthy
+CONTENT_112,Blog,Energy,"Thought Leadership, Energy",12425,1759,0.1416,0.03,Healthy
+CONTENT_113,Product Page,Health,Conversion,6095,350,0.0574,0.03,Healthy
+CONTENT_114,Landing Page,Tech,Long Read,12697,786,0.0619,0.03,Healthy
+CONTENT_115,Blog,Finance,"Thought Leadership, Finance",2366,23,0.0097,0.03,Needs Attention
+CONTENT_116,Landing Page,Retail,,6287,587,0.0934,0.03,Healthy
+CONTENT_117,Article,Health,,8828,1321,0.1496,0.03,Healthy
+CONTENT_118,Landing Page,Tech,Long Read,14562,1696,0.1165,0.03,Healthy
+CONTENT_119,Article,Retail,Long Read,10176,1494,0.1468,0.03,Healthy
+CONTENT_120,Product Page,Tech,"Conversion, Long Read",13474,104,0.0077,0.03,Needs Attention
+CONTENT_121,Product Page,Finance,"Conversion, Finance, Long Read",10731,787,0.0733,0.03,Healthy
+CONTENT_122,Article,Health,,1128,84,0.0745,0.03,Healthy
+CONTENT_123,Product Page,Energy,"Conversion, Energy",855,36,0.0421,0.03,Healthy
+CONTENT_124,Landing Page,Energy,"Energy, Long Read",7741,151,0.0195,0.03,Below Benchmark
+CONTENT_125,Article,Energy,Energy,4219,340,0.0806,0.03,Healthy
+CONTENT_126,Article,Retail,Long Read,4916,17,0.0035,0.03,Needs Attention
+CONTENT_127,Article,Tech,,3728,174,0.0467,0.03,Healthy
+CONTENT_128,Landing Page,Finance,"Finance, Long Read",4521,347,0.0768,0.03,Healthy
+CONTENT_129,Article,Energy,"Energy, Long Read",7509,276,0.0368,0.03,Healthy
+CONTENT_130,Landing Page,Tech,,7697,973,0.1264,0.03,Healthy
+CONTENT_131,Article,Retail,,14204,1693,0.1192,0.03,Healthy
+CONTENT_132,Blog,Energy,"Thought Leadership, Energy, Long Read",10628,589,0.0554,0.03,Healthy
+CONTENT_133,Product Page,Tech,"Conversion, Long Read",9556,1292,0.1352,0.03,Healthy
+CONTENT_134,Blog,Energy,"Thought Leadership, Energy",765,2,0.0026,0.03,Needs Attention
+CONTENT_135,Product Page,Retail,"Conversion, Long Read",5729,24,0.0042,0.03,Needs Attention
+CONTENT_136,Product Page,Retail,"Conversion, Long Read",7893,1174,0.1487,0.03,Healthy
+CONTENT_137,Product Page,Energy,"Conversion, Energy, Long Read",14894,831,0.0558,0.03,Healthy
+CONTENT_138,Landing Page,Tech,,12382,896,0.0724,0.03,Healthy
+CONTENT_139,Product Page,Energy,"Conversion, Energy, Long Read",3769,176,0.0467,0.03,Healthy
+CONTENT_140,Article,Health,Long Read,7198,82,0.0114,0.03,Needs Attention
+CONTENT_141,Product Page,Finance,"Conversion, Finance, Long Read",9700,1271,0.131,0.03,Healthy
+CONTENT_142,Product Page,Energy,"Conversion, Energy",2965,226,0.0762,0.03,Healthy
+CONTENT_143,Landing Page,Energy,Energy,2800,25,0.0089,0.03,Needs Attention
+CONTENT_144,Blog,Energy,"Thought Leadership, Energy, Long Read",9271,894,0.0964,0.03,Healthy
+CONTENT_145,Blog,Finance,"Thought Leadership, Finance",14304,559,0.0391,0.03,Healthy
+CONTENT_146,Product Page,Energy,"Conversion, Energy, Long Read",9991,10,0.001,0.03,Needs Attention
+CONTENT_147,Product Page,Tech,"Conversion, Long Read",7285,942,0.1293,0.03,Healthy
+CONTENT_148,Landing Page,Finance,Finance,8635,924,0.107,0.03,Healthy
+CONTENT_149,Blog,Finance,"Thought Leadership, Finance",7682,123,0.016,0.03,Below Benchmark
+CONTENT_150,Blog,Retail,"Thought Leadership, Long Read",1426,61,0.0428,0.03,Healthy
+CONTENT_151,Blog,Tech,"Thought Leadership, Long Read",5292,463,0.0875,0.03,Healthy
+CONTENT_152,Article,Health,,14687,1941,0.1322,0.03,Healthy
+CONTENT_153,Product Page,Health,"Conversion, Long Read",8135,909,0.1117,0.03,Healthy
+CONTENT_154,Product Page,Health,Conversion,2655,122,0.046,0.03,Healthy
+CONTENT_155,Product Page,Retail,"Conversion, Long Read",2738,82,0.0299,0.03,Below Benchmark
+CONTENT_156,Blog,Tech,"Thought Leadership, Long Read",7658,526,0.0687,0.03,Healthy
+CONTENT_157,Blog,Finance,"Thought Leadership, Finance",13133,178,0.0136,0.03,Needs Attention
+CONTENT_158,Blog,Finance,"Thought Leadership, Finance",14467,845,0.0584,0.03,Healthy
+CONTENT_159,Blog,Energy,"Thought Leadership, Energy",14956,1465,0.098,0.03,Healthy
+CONTENT_160,Article,Health,Long Read,6778,568,0.0838,0.03,Healthy
+CONTENT_161,Product Page,Health,Conversion,13360,1655,0.1239,0.03,Healthy
+CONTENT_162,Blog,Finance,"Thought Leadership, Finance",4302,509,0.1183,0.03,Healthy
+CONTENT_163,Landing Page,Finance,"Finance, Long Read",6477,444,0.0686,0.03,Healthy
+CONTENT_164,Blog,Health,"Thought Leadership, Long Read",12799,415,0.0324,0.03,Healthy
+CONTENT_165,Article,Health,Long Read,9695,546,0.0563,0.03,Healthy
+CONTENT_166,Article,Health,,13468,627,0.0466,0.03,Healthy
+CONTENT_167,Product Page,Energy,"Conversion, Energy, Long Read",5670,259,0.0457,0.03,Healthy
+CONTENT_168,Blog,Finance,"Thought Leadership, Finance, Long Read",12521,929,0.0742,0.03,Healthy
+CONTENT_169,Blog,Energy,"Thought Leadership, Energy",6513,558,0.0857,0.03,Healthy
+CONTENT_170,Product Page,Finance,"Conversion, Finance",7848,514,0.0655,0.03,Healthy
+CONTENT_171,Landing Page,Health,Long Read,13444,1274,0.0948,0.03,Healthy
+CONTENT_172,Product Page,Finance,"Conversion, Finance",4704,361,0.0767,0.03,Healthy
+CONTENT_173,Landing Page,Finance,Finance,1221,27,0.0221,0.03,Below Benchmark
+CONTENT_174,Blog,Retail,"Thought Leadership, Long Read",7709,154,0.02,0.03,Below Benchmark
+CONTENT_175,Blog,Tech,Thought Leadership,6085,812,0.1334,0.03,Healthy
+CONTENT_176,Product Page,Tech,"Conversion, Long Read",742,97,0.1307,0.03,Healthy
+CONTENT_177,Product Page,Health,Conversion,6433,911,0.1416,0.03,Healthy
+CONTENT_178,Landing Page,Health,,14675,528,0.036,0.03,Healthy
+CONTENT_179,Product Page,Health,"Conversion, Long Read",4602,500,0.1086,0.03,Healthy
+CONTENT_180,Blog,Energy,"Thought Leadership, Energy, Long Read",11403,122,0.0107,0.03,Needs Attention
+CONTENT_181,Product Page,Energy,"Conversion, Energy",4152,515,0.124,0.03,Healthy
+CONTENT_182,Article,Tech,Long Read,14701,1347,0.0916,0.03,Healthy
+CONTENT_183,Article,Retail,,12035,999,0.083,0.03,Healthy
+CONTENT_184,Blog,Tech,"Thought Leadership, Long Read",1299,20,0.0154,0.03,Below Benchmark
+CONTENT_185,Blog,Finance,"Thought Leadership, Finance",7377,894,0.1212,0.03,Healthy
+CONTENT_186,Article,Tech,Long Read,10244,571,0.0557,0.03,Healthy
+CONTENT_187,Blog,Health,"Thought Leadership, Long Read",7060,402,0.0569,0.03,Healthy
+CONTENT_188,Blog,Finance,"Thought Leadership, Finance",7478,141,0.0189,0.03,Below Benchmark
+CONTENT_189,Landing Page,Finance,"Finance, Long Read",833,64,0.0768,0.03,Healthy
+CONTENT_190,Product Page,Finance,"Conversion, Finance",6857,544,0.0793,0.03,Healthy
+CONTENT_191,Article,Energy,Energy,8858,1210,0.1366,0.03,Healthy
+CONTENT_192,Landing Page,Health,Long Read,4851,257,0.053,0.03,Healthy
+CONTENT_193,Product Page,Finance,"Conversion, Finance",14239,1431,0.1005,0.03,Healthy
+CONTENT_194,Blog,Tech,Thought Leadership,6726,816,0.1213,0.03,Healthy
+CONTENT_195,Blog,Retail,Thought Leadership,6354,649,0.1021,0.03,Healthy
+CONTENT_196,Article,Tech,,9577,278,0.029,0.03,Below Benchmark
+CONTENT_197,Landing Page,Health,,8869,1198,0.1351,0.03,Healthy
+CONTENT_198,Article,Retail,,11034,335,0.0304,0.03,Healthy
+CONTENT_199,Landing Page,Tech,Long Read,9797,1006,0.1027,0.03,Healthy
+CONTENT_200,Landing Page,Tech,Long Read,9628,1373,0.1426,0.03,Healthy

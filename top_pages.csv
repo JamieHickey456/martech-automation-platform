@@ -1,0 +1,11 @@
+content_id,content_type,category,tags,page_views,pdf_clicks,ctr,benchmark_ctr,status
+CONTENT_117,Article,Health,,8828,1321,0.1496,0.03,Healthy
+CONTENT_136,Product Page,Retail,"Conversion, Long Read",7893,1174,0.1487,0.03,Healthy
+CONTENT_119,Article,Retail,Long Read,10176,1494,0.1468,0.03,Healthy
+CONTENT_20,Blog,Tech,"Thought Leadership, Long Read",7746,1128,0.1456,0.03,Healthy
+CONTENT_17,Product Page,Health,Conversion,12461,1791,0.1437,0.03,Healthy
+CONTENT_111,Article,Health,,7788,1111,0.1427,0.03,Healthy
+CONTENT_200,Landing Page,Tech,Long Read,9628,1373,0.1426,0.03,Healthy
+CONTENT_87,Product Page,Energy,"Conversion, Energy, Long Read",10309,1467,0.1423,0.03,Healthy
+CONTENT_112,Blog,Energy,"Thought Leadership, Energy",12425,1759,0.1416,0.03,Healthy
+CONTENT_177,Product Page,Health,Conversion,6433,911,0.1416,0.03,Healthy

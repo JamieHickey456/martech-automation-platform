@@ -1,0 +1,20 @@
+content_id,content_type,category,tags,page_views,pdf_clicks,ctr,benchmark_ctr,status
+CONTENT_146,Product Page,Energy,"Conversion, Energy, Long Read",9991,10,0.001,0.03,Needs Attention
+CONTENT_134,Blog,Energy,"Thought Leadership, Energy",765,2,0.0026,0.03,Needs Attention
+CONTENT_4,Article,Finance,Finance,10297,34,0.0033,0.03,Needs Attention
+CONTENT_126,Article,Retail,Long Read,4916,17,0.0035,0.03,Needs Attention
+CONTENT_109,Blog,Energy,"Thought Leadership, Energy",12930,48,0.0037,0.03,Needs Attention
+CONTENT_135,Product Page,Retail,"Conversion, Long Read",5729,24,0.0042,0.03,Needs Attention
+CONTENT_91,Landing Page,Health,Long Read,14479,67,0.0046,0.03,Needs Attention
+CONTENT_90,Product Page,Tech,"Conversion, Long Read",12916,98,0.0076,0.03,Needs Attention
+CONTENT_120,Product Page,Tech,"Conversion, Long Read",13474,104,0.0077,0.03,Needs Attention
+CONTENT_143,Landing Page,Energy,Energy,2800,25,0.0089,0.03,Needs Attention
+CONTENT_50,Landing Page,Energy,"Energy, Long Read",524,5,0.0095,0.03,Needs Attention
+CONTENT_115,Blog,Finance,"Thought Leadership, Finance",2366,23,0.0097,0.03,Needs Attention
+CONTENT_102,Product Page,Health,"Conversion, Long Read",9499,93,0.0098,0.03,Needs Attention
+CONTENT_180,Blog,Energy,"Thought Leadership, Energy, Long Read",11403,122,0.0107,0.03,Needs Attention
+CONTENT_140,Article,Health,Long Read,7198,82,0.0114,0.03,Needs Attention
+CONTENT_13,Landing Page,Health,,12293,141,0.0115,0.03,Needs Attention
+CONTENT_21,Landing Page,Finance,Finance,1366,16,0.0117,0.03,Needs Attention
+CONTENT_12,Landing Page,Health,,630,8,0.0127,0.03,Needs Attention
+CONTENT_157,Blog,Finance,"Thought Leadership, Finance",13133,178,0.0136,0.03,Needs Attention

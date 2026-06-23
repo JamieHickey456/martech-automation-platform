@@ -1,0 +1,201 @@
+content_id,content_type,category,content_score,readiness,tags,original_status
+CONTENT_1,Article,Retail,0.53,Low,,Published
+CONTENT_2,Blog,Tech,0.6,Medium,"Thought Leadership, Long Read",Published
+CONTENT_3,Article,Retail,0.7,Medium,Long Read,Draft
+CONTENT_4,Article,Finance,0.43,Low,Finance,Draft
+CONTENT_5,Product Page,Energy,0.77,High,"Conversion, Energy",Review
+CONTENT_6,Article,Tech,0.68,Medium,Long Read,Review
+CONTENT_7,Blog,Energy,0.57,Medium,"Thought Leadership, Energy, Long Read",Review
+CONTENT_8,Article,Retail,0.37,Low,,Review
+CONTENT_9,Landing Page,Tech,0.78,High,,Draft
+CONTENT_10,Product Page,Energy,0.49,Low,"Conversion, Energy, Long Read",Published
+CONTENT_11,Blog,Retail,0.58,Medium,"Thought Leadership, Long Read",Draft
+CONTENT_12,Landing Page,Health,0.6,Medium,,Review
+CONTENT_13,Landing Page,Health,0.69,Medium,,Published
+CONTENT_14,Landing Page,Tech,0.49,Low,Long Read,Published
+CONTENT_15,Product Page,Retail,0.79,High,Conversion,Draft
+CONTENT_16,Blog,Retail,0.66,Medium,Thought Leadership,Published
+CONTENT_17,Product Page,Health,0.65,Medium,Conversion,Draft
+CONTENT_18,Product Page,Energy,0.33,Low,"Conversion, Energy",Draft
+CONTENT_19,Product Page,Finance,0.69,Medium,"Conversion, Finance",Review
+CONTENT_20,Blog,Tech,0.61,Medium,"Thought Leadership, Long Read",Published
+CONTENT_21,Landing Page,Finance,0.65,Medium,Finance,Published
+CONTENT_22,Product Page,Tech,0.88,High,"Conversion, Long Read",Published
+CONTENT_23,Article,Tech,0.5,Low,,Draft
+CONTENT_24,Article,Finance,0.54,Low,"Finance, Long Read",Review
+CONTENT_25,Blog,Health,0.72,Medium,Thought Leadership,Draft
+CONTENT_26,Blog,Tech,0.71,Medium,Thought Leadership,Draft
+CONTENT_27,Landing Page,Energy,0.73,Medium,Energy,Review
+CONTENT_28,Product Page,Energy,0.5,Low,"Conversion, Energy, Long Read",Review
+CONTENT_29,Landing Page,Finance,0.51,Low,"Finance, Long Read",Review
+CONTENT_30,Landing Page,Retail,0.48,Low,,Review
+CONTENT_31,Article,Health,0.5,Low,Long Read,Review
+CONTENT_32,Blog,Health,0.44,Low,Thought Leadership,Draft
+CONTENT_33,Product Page,Finance,0.45,Low,"Conversion, Finance, Long Read",Review
+CONTENT_34,Landing Page,Health,0.77,High,Long Read,Draft
+CONTENT_35,Blog,Tech,0.79,High,Thought Leadership,Review
+CONTENT_36,Product Page,Health,0.42,Low,"Conversion, Long Read",Review
+CONTENT_37,Blog,Finance,0.57,Medium,"Thought Leadership, Finance, Long Read",Draft
+CONTENT_38,Blog,Finance,0.82,High,"Thought Leadership, Finance, Long Read",Draft
+CONTENT_39,Blog,Energy,0.69,Medium,"Thought Leadership, Energy",Review
+CONTENT_40,Product Page,Health,0.51,Low,"Conversion, Long Read",Published
+CONTENT_41,Product Page,Finance,0.57,Medium,"Conversion, Finance",Draft
+CONTENT_42,Article,Energy,0.44,Low,Energy,Review
+CONTENT_43,Blog,Energy,0.65,Medium,"Thought Leadership, Energy",Published
+CONTENT_44,Landing Page,Health,0.6,Medium,,Review
+CONTENT_45,Article,Tech,0.34,Low,Long Read,Review
+CONTENT_46,Blog,Energy,0.8,High,"Thought Leadership, Energy",Draft
+CONTENT_47,Landing Page,Energy,0.57,Medium,Energy,Review
+CONTENT_48,Article,Tech,0.65,Medium,,Published
+CONTENT_49,Landing Page,Retail,0.61,Medium,Long Read,Published
+CONTENT_50,Landing Page,Energy,0.63,Medium,"Energy, Long Read",Draft
+CONTENT_51,Product Page,Finance,0.45,Low,"Conversion, Finance",Review
+CONTENT_52,Landing Page,Energy,0.33,Low,"Energy, Long Read",Published
+CONTENT_53,Product Page,Retail,0.66,Medium,Conversion,Review
+CONTENT_54,Landing Page,Finance,0.82,High,Finance,Draft
+CONTENT_55,Blog,Energy,0.67,Medium,"Thought Leadership, Energy",Draft
+CONTENT_56,Product Page,Tech,0.63,Medium,"Conversion, Long Read",Review
+CONTENT_57,Landing Page,Tech,0.61,Medium,,Draft
+CONTENT_58,Article,Retail,0.61,Medium,,Review
+CONTENT_59,Product Page,Finance,0.62,Medium,"Conversion, Finance",Review
+CONTENT_60,Blog,Finance,0.71,Medium,"Thought Leadership, Finance",Published
+CONTENT_61,Article,Energy,0.65,Medium,Energy,Published
+CONTENT_62,Article,Retail,0.58,Medium,,Review
+CONTENT_63,Landing Page,Tech,0.5,Low,Long Read,Review
+CONTENT_64,Landing Page,Finance,0.86,High,Finance,Draft
+CONTENT_65,Product Page,Health,0.44,Low,Conversion,Review
+CONTENT_66,Landing Page,Health,0.59,Medium,Long Read,Review
+CONTENT_67,Landing Page,Tech,0.63,Medium,Long Read,Published
+CONTENT_68,Landing Page,Tech,0.59,Medium,,Review
+CONTENT_69,Landing Page,Energy,0.47,Low,Energy,Review
+CONTENT_70,Article,Tech,0.67,Medium,,Review
+CONTENT_71,Article,Energy,0.62,Medium,Energy,Draft
+CONTENT_72,Article,Retail,0.37,Low,Long Read,Review
+CONTENT_73,Product Page,Tech,0.65,Medium,Conversion,Draft
+CONTENT_74,Blog,Retail,0.62,Medium,Thought Leadership,Review
+CONTENT_75,Article,Retail,0.55,Medium,Long Read,Draft
+CONTENT_76,Blog,Health,0.49,Low,"Thought Leadership, Long Read",Review
+CONTENT_77,Landing Page,Health,0.59,Medium,,Published
+CONTENT_78,Article,Retail,0.67,Medium,Long Read,Review
+CONTENT_79,Article,Tech,0.44,Low,,Review
+CONTENT_80,Landing Page,Retail,0.79,High,,Draft
+CONTENT_81,Landing Page,Health,0.8,High,Long Read,Draft
+CONTENT_82,Landing Page,Finance,0.63,Medium,Finance,Review
+CONTENT_83,Landing Page,Tech,0.67,Medium,,Published
+CONTENT_84,Landing Page,Energy,0.47,Low,Energy,Published
+CONTENT_85,Blog,Tech,0.59,Medium,"Thought Leadership, Long Read",Published
+CONTENT_86,Blog,Health,0.58,Medium,Thought Leadership,Draft
+CONTENT_87,Product Page,Energy,0.57,Medium,"Conversion, Energy, Long Read",Draft
+CONTENT_88,Product Page,Energy,0.67,Medium,"Conversion, Energy, Long Read",Published
+CONTENT_89,Landing Page,Tech,0.59,Medium,,Published
+CONTENT_90,Product Page,Tech,0.64,Medium,"Conversion, Long Read",Review
+CONTENT_91,Landing Page,Health,0.91,High,Long Read,Review
+CONTENT_92,Blog,Tech,0.82,High,"Thought Leadership, Long Read",Review
+CONTENT_93,Product Page,Finance,0.66,Medium,"Conversion, Finance, Long Read",Review
+CONTENT_94,Landing Page,Health,0.6,Medium,Long Read,Draft
+CONTENT_95,Product Page,Energy,0.62,Medium,"Conversion, Energy",Published
+CONTENT_96,Article,Finance,0.61,Medium,Finance,Published
+CONTENT_97,Blog,Health,0.63,Medium,Thought Leadership,Published
+CONTENT_98,Landing Page,Finance,0.7,Medium,Finance,Draft
+CONTENT_99,Blog,Health,0.46,Low,Thought Leadership,Published
+CONTENT_100,Product Page,Retail,0.55,Medium,"Conversion, Long Read",Review
+CONTENT_101,Article,Retail,0.71,Medium,,Review
+CONTENT_102,Product Page,Health,0.44,Low,"Conversion, Long Read",Published
+CONTENT_103,Product Page,Health,0.63,Medium,"Conversion, Long Read",Review
+CONTENT_104,Article,Retail,0.7,Medium,,Review
+CONTENT_105,Article,Energy,0.69,Medium,"Energy, Long Read",Published
+CONTENT_106,Landing Page,Tech,0.34,Low,Long Read,Published
+CONTENT_107,Blog,Health,0.89,High,"Thought Leadership, Long Read",Review
+CONTENT_108,Article,Finance,0.76,High,"Finance, Long Read",Review
+CONTENT_109,Blog,Energy,0.46,Low,"Thought Leadership, Energy",Review
+CONTENT_110,Article,Health,0.37,Low,Long Read,Published
+CONTENT_111,Article,Health,0.69,Medium,,Published
+CONTENT_112,Blog,Energy,0.8,High,"Thought Leadership, Energy",Review
+CONTENT_113,Product Page,Health,0.66,Medium,Conversion,Review
+CONTENT_114,Landing Page,Tech,0.5,Low,Long Read,Draft
+CONTENT_115,Blog,Finance,0.45,Low,"Thought Leadership, Finance",Review
+CONTENT_116,Landing Page,Retail,0.74,Medium,,Draft
+CONTENT_117,Article,Health,0.51,Low,,Review
+CONTENT_118,Landing Page,Tech,0.5,Low,Long Read,Review
+CONTENT_119,Article,Retail,0.48,Low,Long Read,Review
+CONTENT_120,Product Page,Tech,0.55,Medium,"Conversion, Long Read",Published
+CONTENT_121,Product Page,Finance,0.49,Low,"Conversion, Finance, Long Read",Review
+CONTENT_122,Article,Health,0.64,Medium,,Published
+CONTENT_123,Product Page,Energy,0.59,Medium,"Conversion, Energy",Draft
+CONTENT_124,Landing Page,Energy,0.39,Low,"Energy, Long Read",Review
+CONTENT_125,Article,Energy,0.58,Medium,Energy,Draft
+CONTENT_126,Article,Retail,0.56,Medium,Long Read,Published
+CONTENT_127,Article,Tech,0.78,High,,Published
+CONTENT_128,Landing Page,Finance,0.63,Medium,"Finance, Long Read",Published
+CONTENT_129,Article,Energy,0.76,High,"Energy, Long Read",Draft
+CONTENT_130,Landing Page,Tech,0.79,High,,Published
+CONTENT_131,Article,Retail,0.79,High,,Published
+CONTENT_132,Blog,Energy,0.6,Medium,"Thought Leadership, Energy, Long Read",Review
+CONTENT_133,Product Page,Tech,0.56,Medium,"Conversion, Long Read",Review
+CONTENT_134,Blog,Energy,0.76,High,"Thought Leadership, Energy",Published
+CONTENT_135,Product Page,Retail,0.76,High,"Conversion, Long Read",Draft
+CONTENT_136,Product Page,Retail,0.71,Medium,"Conversion, Long Read",Draft
+CONTENT_137,Product Page,Energy,0.75,High,"Conversion, Energy, Long Read",Published
+CONTENT_138,Landing Page,Tech,0.7,Medium,,Published
+CONTENT_139,Product Page,Energy,0.4,Low,"Conversion, Energy, Long Read",Review
+CONTENT_140,Article,Health,0.77,High,Long Read,Review
+CONTENT_141,Product Page,Finance,0.51,Low,"Conversion, Finance, Long Read",Draft
+CONTENT_142,Product Page,Energy,0.45,Low,"Conversion, Energy",Published
+CONTENT_143,Landing Page,Energy,0.45,Low,Energy,Published
+CONTENT_144,Blog,Energy,0.43,Low,"Thought Leadership, Energy, Long Read",Review
+CONTENT_145,Blog,Finance,0.5,Low,"Thought Leadership, Finance",Draft
+CONTENT_146,Product Page,Energy,0.39,Low,"Conversion, Energy, Long Read",Draft
+CONTENT_147,Product Page,Tech,0.56,Medium,"Conversion, Long Read",Published
+CONTENT_148,Landing Page,Finance,0.48,Low,Finance,Published
+CONTENT_149,Blog,Finance,0.78,High,"Thought Leadership, Finance",Published
+CONTENT_150,Blog,Retail,0.6,Medium,"Thought Leadership, Long Read",Published
+CONTENT_151,Blog,Tech,0.54,Low,"Thought Leadership, Long Read",Draft
+CONTENT_152,Article,Health,0.46,Low,,Published
+CONTENT_153,Product Page,Health,0.75,High,"Conversion, Long Read",Draft
+CONTENT_154,Product Page,Health,0.56,Medium,Conversion,Published
+CONTENT_155,Product Page,Retail,0.46,Low,"Conversion, Long Read",Draft
+CONTENT_156,Blog,Tech,0.57,Medium,"Thought Leadership, Long Read",Published
+CONTENT_157,Blog,Finance,0.65,Medium,"Thought Leadership, Finance",Review
+CONTENT_158,Blog,Finance,0.7,Medium,"Thought Leadership, Finance",Draft
+CONTENT_159,Blog,Energy,0.67,Medium,"Thought Leadership, Energy",Review
+CONTENT_160,Article,Health,0.42,Low,Long Read,Draft
+CONTENT_161,Product Page,Health,0.77,High,Conversion,Published
+CONTENT_162,Blog,Finance,0.68,Medium,"Thought Leadership, Finance",Review
+CONTENT_163,Landing Page,Finance,0.64,Medium,"Finance, Long Read",Review
+CONTENT_164,Blog,Health,0.5,Low,"Thought Leadership, Long Read",Draft
+CONTENT_165,Article,Health,0.75,High,Long Read,Draft
+CONTENT_166,Article,Health,0.83,High,,Published
+CONTENT_167,Product Page,Energy,0.42,Low,"Conversion, Energy, Long Read",Review
+CONTENT_168,Blog,Finance,0.67,Medium,"Thought Leadership, Finance, Long Read",Draft
+CONTENT_169,Blog,Energy,0.68,Medium,"Thought Leadership, Energy",Published
+CONTENT_170,Product Page,Finance,0.61,Medium,"Conversion, Finance",Published
+CONTENT_171,Landing Page,Health,0.68,Medium,Long Read,Draft
+CONTENT_172,Product Page,Finance,0.66,Medium,"Conversion, Finance",Draft
+CONTENT_173,Landing Page,Finance,0.71,Medium,Finance,Draft
+CONTENT_174,Blog,Retail,0.4,Low,"Thought Leadership, Long Read",Published
+CONTENT_175,Blog,Tech,0.61,Medium,Thought Leadership,Draft
+CONTENT_176,Product Page,Tech,0.57,Medium,"Conversion, Long Read",Draft
+CONTENT_177,Product Page,Health,0.51,Low,Conversion,Draft
+CONTENT_178,Landing Page,Health,0.58,Medium,,Review
+CONTENT_179,Product Page,Health,0.59,Medium,"Conversion, Long Read",Review
+CONTENT_180,Blog,Energy,0.71,Medium,"Thought Leadership, Energy, Long Read",Draft
+CONTENT_181,Product Page,Energy,0.71,Medium,"Conversion, Energy",Published
+CONTENT_182,Article,Tech,0.54,Low,Long Read,Draft
+CONTENT_183,Article,Retail,0.82,High,,Draft
+CONTENT_184,Blog,Tech,0.73,Medium,"Thought Leadership, Long Read",Review
+CONTENT_185,Blog,Finance,0.45,Low,"Thought Leadership, Finance",Draft
+CONTENT_186,Article,Tech,0.62,Medium,Long Read,Draft
+CONTENT_187,Blog,Health,0.5,Low,"Thought Leadership, Long Read",Review
+CONTENT_188,Blog,Finance,0.68,Medium,"Thought Leadership, Finance",Draft
+CONTENT_189,Landing Page,Finance,0.63,Medium,"Finance, Long Read",Draft
+CONTENT_190,Product Page,Finance,0.74,Medium,"Conversion, Finance",Draft
+CONTENT_191,Article,Energy,0.58,Medium,Energy,Draft
+CONTENT_192,Landing Page,Health,0.77,High,Long Read,Published
+CONTENT_193,Product Page,Finance,0.63,Medium,"Conversion, Finance",Draft
+CONTENT_194,Blog,Tech,0.74,Medium,Thought Leadership,Review
+CONTENT_195,Blog,Retail,0.74,Medium,Thought Leadership,Review
+CONTENT_196,Article,Tech,0.75,High,,Draft
+CONTENT_197,Landing Page,Health,0.81,High,,Published
+CONTENT_198,Article,Retail,0.66,Medium,,Published
+CONTENT_199,Landing Page,Tech,0.5,Low,Long Read,Published
+CONTENT_200,Landing Page,Tech,0.55,Medium,Long Read,Draft

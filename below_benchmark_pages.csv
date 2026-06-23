@@ -1,0 +1,26 @@
+content_id,content_type,category,tags,page_views,pdf_clicks,ctr,benchmark_ctr,status
+CONTENT_5,Product Page,Energy,"Conversion, Energy",13381,267,0.02,0.03,Below Benchmark
+CONTENT_9,Landing Page,Tech,,1572,41,0.0261,0.03,Below Benchmark
+CONTENT_24,Article,Finance,"Finance, Long Read",7027,108,0.0154,0.03,Below Benchmark
+CONTENT_25,Blog,Health,Thought Leadership,5029,127,0.0253,0.03,Below Benchmark
+CONTENT_27,Landing Page,Energy,Energy,14111,217,0.0154,0.03,Below Benchmark
+CONTENT_39,Blog,Energy,"Thought Leadership, Energy",10110,224,0.0222,0.03,Below Benchmark
+CONTENT_43,Blog,Energy,"Thought Leadership, Energy",7582,145,0.0191,0.03,Below Benchmark
+CONTENT_44,Landing Page,Health,,3999,69,0.0173,0.03,Below Benchmark
+CONTENT_45,Article,Tech,Long Read,1372,33,0.0241,0.03,Below Benchmark
+CONTENT_69,Landing Page,Energy,Energy,13876,264,0.019,0.03,Below Benchmark
+CONTENT_73,Product Page,Tech,Conversion,7373,194,0.0263,0.03,Below Benchmark
+CONTENT_75,Article,Retail,Long Read,7385,119,0.0161,0.03,Below Benchmark
+CONTENT_76,Blog,Health,"Thought Leadership, Long Read",11046,279,0.0253,0.03,Below Benchmark
+CONTENT_77,Landing Page,Health,,8504,254,0.0299,0.03,Below Benchmark
+CONTENT_98,Landing Page,Finance,Finance,14091,394,0.028,0.03,Below Benchmark
+CONTENT_105,Article,Energy,"Energy, Long Read",10019,214,0.0214,0.03,Below Benchmark
+CONTENT_106,Landing Page,Tech,Long Read,3967,67,0.0169,0.03,Below Benchmark
+CONTENT_124,Landing Page,Energy,"Energy, Long Read",7741,151,0.0195,0.03,Below Benchmark
+CONTENT_149,Blog,Finance,"Thought Leadership, Finance",7682,123,0.016,0.03,Below Benchmark
+CONTENT_155,Product Page,Retail,"Conversion, Long Read",2738,82,0.0299,0.03,Below Benchmark
+CONTENT_173,Landing Page,Finance,Finance,1221,27,0.0221,0.03,Below Benchmark
+CONTENT_174,Blog,Retail,"Thought Leadership, Long Read",7709,154,0.02,0.03,Below Benchmark
+CONTENT_184,Blog,Tech,"Thought Leadership, Long Read",1299,20,0.0154,0.03,Below Benchmark
+CONTENT_188,Blog,Finance,"Thought Leadership, Finance",7478,141,0.0189,0.03,Below Benchmark
+CONTENT_196,Article,Tech,,9577,278,0.029,0.03,Below Benchmark
