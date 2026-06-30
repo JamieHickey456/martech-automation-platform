@@ -1,1 +1,30 @@
+# macOS
 .DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+
+# Generated data
+customer_events.csv
+customer_profiles.csv
+campaign_actions.csv
+page_insights.csv
+agent_recommendations.csv
+below_benchmark_pages.csv
+top_pages.csv
+pages_needing_attention.csv
+cms_content_processed.csv
+
+# Archives
+*.zip
